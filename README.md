@@ -23,4 +23,4 @@ weight_init: "xavier_uniform_"
 
 ## Training results
 
-![alt text](.\assets\train_loss_curve.png)
+![alt text](./assets/train_loss_curve.png)
