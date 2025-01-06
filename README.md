@@ -24,3 +24,5 @@ weight_init: "xavier_uniform_"
 ## Training results
 
 ![alt text](./assets/train_loss_curve.png)
+
+⚠️ This repo is a work in progress 
